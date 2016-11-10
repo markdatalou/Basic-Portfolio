@@ -1,0 +1,97 @@
+.body {
+font-family: "Georgia", "Times", "Times New Roman", "serif";
+
+}
+
+p {
+outline:2px dashed red;
+color: #777777;
+float: right;
+width: 495px;
+height: 60px;
+
+/* box-sizing: content-box; */
+}
+
+.header {
+outline:2px dashed red;	
+background-color: #4aaaa5;
+color: white;
+text-align: center;
+
+padding-top: 5px;
+padding-bottom:5px; 
+width: 25%;
+margin-left:80px;
+}
+
+.asides {
+float: right5;
+font-family: "arial", "helvetica Neue","Helvetica", "sans-serif";
+outline:2px dashed red;	
+background-color: white;
+color: #777777;
+text-align: center;
+box-sizing: border-box;
+width:33%;
+float: left;
+
+
+
+}
+
+.section1a {
+float: left;
+outline:2px dashed red;	
+background-color: #dcdcdc;
+content: #ebebeb;
+color: #777777;
+width: 495px;
+box-sizing: border-box;
+
+}
+
+.section2 {
+float: left;
+outline:2px dashed red;	
+background-color: white;
+color: #777777;
+width:495px;
+
+}
+
+.articles {
+
+}
+
+.mainback {
+outline:2px dashed blue;
+
+width: 650;
+background-color: green;
+
+}
+
+nav {
+margin-left: 600px;
+}
+
+.picdef {
+float:left;
+max-width: 25%;
+}
+
+.clear {
+clear: both;
+overflow:auto;
+}
+
+.foot {
+clear:both;
+background-color: gray;
+padding-top: 22px;
+text-align: center;
+height:44px;
+
+}
+
